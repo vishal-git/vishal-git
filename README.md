@@ -1,4 +1,4 @@
-### Hello there! 👋
+### :wave: Hello there!
 
 -  I am a Data Science consultant :chart_with_upwards_trend:
 -  I have been doing Data Science since :two: :zero: :zero: :three:
